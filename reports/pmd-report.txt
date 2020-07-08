@@ -1,0 +1,428 @@
+src/lifegame/Cell.java:4:	CommentRequired: Class comments are required
+src/lifegame/Cell.java:4:	CommentRequired: Class comments are required
+src/lifegame/Cell.java:4:	ShortClassName: Avoid short class names like Cell
+src/lifegame/Cell.java:4:	ShortClassName: Avoid short class names like Cell
+src/lifegame/Cell.java:5:	CommentRequired: Field comments are required
+src/lifegame/Cell.java:5:	CommentRequired: Field comments are required
+src/lifegame/Cell.java:6:	CommentRequired: Field comments are required
+src/lifegame/Cell.java:6:	CommentRequired: Field comments are required
+src/lifegame/Cell.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/lifegame/Cell.java:7:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/lifegame/Cell.java:11:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/lifegame/Cell.java:11:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the Cell constructor if you want a default access modifier
+src/lifegame/Cell.java:11:	MethodArgumentCouldBeFinal: Parameter 'Aamount' is not assigned and could be declared final
+src/lifegame/Cell.java:11:	MethodArgumentCouldBeFinal: Parameter 'Aamount' is not assigned and could be declared final
+src/lifegame/Cell.java:11:	MethodArgumentCouldBeFinal: Parameter 'Astatus' is not assigned and could be declared final
+src/lifegame/Cell.java:11:	MethodArgumentCouldBeFinal: Parameter 'Astatus' is not assigned and could be declared final
+src/lifegame/Cell.java:16:	CommentRequired: Public method and constructor comments are required
+src/lifegame/Cell.java:16:	CommentRequired: Public method and constructor comments are required
+src/lifegame/Cell.java:23:	MethodArgumentCouldBeFinal: Parameter 'Astatus' is not assigned and could be declared final
+src/lifegame/Cell.java:23:	MethodArgumentCouldBeFinal: Parameter 'Astatus' is not assigned and could be declared final
+src/lifegame/Cell.java:29:	MethodArgumentCouldBeFinal: Parameter 'Aamount' is not assigned and could be declared final
+src/lifegame/Cell.java:29:	MethodArgumentCouldBeFinal: Parameter 'Aamount' is not assigned and could be declared final
+src/lifegame/Cell.java:33:	CommentRequired: Public method and constructor comments are required
+src/lifegame/Cell.java:33:	CommentRequired: Public method and constructor comments are required
+src/lifegame/Cell.java:34:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/lifegame/Cell.java:34:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/lifegame/Cell.java:34:	ControlStatementBraces: This statement should have braces
+src/lifegame/Cell.java:34:	ControlStatementBraces: This statement should have braces
+src/lifegame/Cell.java:35:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/lifegame/Cell.java:35:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/lifegame/Cell.java:35:	ControlStatementBraces: This statement should have braces
+src/lifegame/Cell.java:35:	ControlStatementBraces: This statement should have braces
+src/lifegame/Cell.java:36:	ControlStatementBraces: This statement should have braces
+src/lifegame/Cell.java:36:	ControlStatementBraces: This statement should have braces
+src/lifegame/CellTest.java:9:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/lifegame/CellTest.java:9:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/lifegame/CellTest.java:9:	CommentRequired: Class comments are required
+src/lifegame/CellTest.java:9:	CommentRequired: Class comments are required
+src/lifegame/CellTest.java:10:	CommentRequired: Field comments are required
+src/lifegame/CellTest.java:10:	CommentRequired: Field comments are required
+src/lifegame/CellTest.java:12:	CommentRequired: Public method and constructor comments are required
+src/lifegame/CellTest.java:12:	CommentRequired: Public method and constructor comments are required
+src/lifegame/CellTest.java:12:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/lifegame/CellTest.java:12:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/lifegame/CellTest.java:13:	SystemPrintln: System.out.println is used
+src/lifegame/CellTest.java:13:	SystemPrintln: System.out.println is used
+src/lifegame/CellTest.java:17:	CommentRequired: Public method and constructor comments are required
+src/lifegame/CellTest.java:17:	CommentRequired: Public method and constructor comments are required
+src/lifegame/CellTest.java:22:	CommentRequired: Public method and constructor comments are required
+src/lifegame/CellTest.java:22:	CommentRequired: Public method and constructor comments are required
+src/lifegame/CellTest.java:26:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/CellTest.java:26:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/CellTest.java:30:	CommentRequired: Public method and constructor comments are required
+src/lifegame/CellTest.java:30:	CommentRequired: Public method and constructor comments are required
+src/lifegame/CellTest.java:34:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/CellTest.java:34:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/CellTest.java:38:	CommentRequired: Public method and constructor comments are required
+src/lifegame/CellTest.java:38:	CommentRequired: Public method and constructor comments are required
+src/lifegame/CellTest.java:42:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/CellTest.java:42:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/GUI.java:3:	UnusedImports: Avoid unused imports such as 'java.awt.EventQueue'
+src/lifegame/GUI.java:3:	UnusedImports: Avoid unused imports such as 'java.awt.EventQueue'
+src/lifegame/GUI.java:10:	CommentRequired: Class comments are required
+src/lifegame/GUI.java:10:	CommentRequired: Class comments are required
+src/lifegame/GUI.java:10:	ModifiedCyclomaticComplexity: The class 'GUI' has a Modified Cyclomatic Complexity of 16 (Highest = 15).
+src/lifegame/GUI.java:10:	ModifiedCyclomaticComplexity: The class 'GUI' has a Modified Cyclomatic Complexity of 16 (Highest = 15).
+src/lifegame/GUI.java:10:	ShortClassName: Avoid short class names like GUI
+src/lifegame/GUI.java:10:	ShortClassName: Avoid short class names like GUI
+src/lifegame/GUI.java:11:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the GUI constructor if you want a default access modifier
+src/lifegame/GUI.java:11:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the GUI constructor if you want a default access modifier
+src/lifegame/GUI.java:11:	ModifiedCyclomaticComplexity: The constructor 'GUI' has a Modified Cyclomatic Complexity of 15.
+src/lifegame/GUI.java:11:	ModifiedCyclomaticComplexity: The constructor 'GUI' has a Modified Cyclomatic Complexity of 15.
+src/lifegame/GUI.java:11:	NPathComplexity: The constructor 'GUI()' has an NPath complexity of 600
+src/lifegame/GUI.java:11:	NPathComplexity: The constructor 'GUI()' has an NPath complexity of 600
+src/lifegame/GUI.java:12:	LocalVariableCouldBeFinal: Local variable 'jframe' could be declared final
+src/lifegame/GUI.java:12:	LocalVariableCouldBeFinal: Local variable 'jframe' could be declared final
+src/lifegame/GUI.java:14:	LocalVariableCouldBeFinal: Local variable 'jpanel' could be declared final
+src/lifegame/GUI.java:14:	LocalVariableCouldBeFinal: Local variable 'jpanel' could be declared final
+src/lifegame/GUI.java:25:	LocalVariableCouldBeFinal: Local variable 'g' could be declared final
+src/lifegame/GUI.java:25:	LocalVariableCouldBeFinal: Local variable 'g' could be declared final
+src/lifegame/GUI.java:25:	ShortVariable: Avoid variables with short names like g
+src/lifegame/GUI.java:25:	ShortVariable: Avoid variables with short names like g
+src/lifegame/GUI.java:33:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/lifegame/GUI.java:33:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/lifegame/GUI.java:41:	ShortVariable: Avoid variables with short names like t1
+src/lifegame/GUI.java:41:	ShortVariable: Avoid variables with short names like t1
+src/lifegame/GUI.java:43:	LocalVariableCouldBeFinal: Local variable 't2' could be declared final
+src/lifegame/GUI.java:43:	LocalVariableCouldBeFinal: Local variable 't2' could be declared final
+src/lifegame/GUI.java:43:	ShortVariable: Avoid variables with short names like t2
+src/lifegame/GUI.java:43:	ShortVariable: Avoid variables with short names like t2
+src/lifegame/GUI.java:44:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/lifegame/GUI.java:44:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/lifegame/GUI.java:57:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/lifegame/GUI.java:57:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/lifegame/GUI.java:67:	ControlStatementBraces: This statement should have braces
+src/lifegame/GUI.java:67:	ControlStatementBraces: This statement should have braces
+src/lifegame/GUI.java:68:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/lifegame/GUI.java:68:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/lifegame/GUI.java:68:	ControlStatementBraces: This statement should have braces
+src/lifegame/GUI.java:68:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:5:	ImportFromSamePackage: No need to import a type that lives in the same package
+src/lifegame/Map.java:5:	ImportFromSamePackage: No need to import a type that lives in the same package
+src/lifegame/Map.java:8:	CommentRequired: Class comments are required
+src/lifegame/Map.java:8:	CommentRequired: Class comments are required
+src/lifegame/Map.java:8:	ModifiedCyclomaticComplexity: The class 'Map' has a Modified Cyclomatic Complexity of 6 (Highest = 11).
+src/lifegame/Map.java:8:	ModifiedCyclomaticComplexity: The class 'Map' has a Modified Cyclomatic Complexity of 6 (Highest = 11).
+src/lifegame/Map.java:8:	ShortClassName: Avoid short class names like Map
+src/lifegame/Map.java:8:	ShortClassName: Avoid short class names like Map
+src/lifegame/Map.java:8:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lifegame/Map.java:8:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lifegame/Map.java:9:	CommentRequired: Field comments are required
+src/lifegame/Map.java:9:	CommentRequired: Field comments are required
+src/lifegame/Map.java:10:	CommentRequired: Field comments are required
+src/lifegame/Map.java:10:	CommentRequired: Field comments are required
+src/lifegame/Map.java:11:	CommentRequired: Public method and constructor comments are required
+src/lifegame/Map.java:11:	CommentRequired: Public method and constructor comments are required
+src/lifegame/Map.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cell' (lines '12'-'15').
+src/lifegame/Map.java:12:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cell' (lines '12'-'15').
+src/lifegame/Map.java:15:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifegame/Map.java:15:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifegame/Map.java:15:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cell' (lines '15'-'16').
+src/lifegame/Map.java:15:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'cell' (lines '15'-'16').
+src/lifegame/Map.java:16:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifegame/Map.java:16:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifegame/Map.java:17:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifegame/Map.java:17:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifegame/Map.java:17:	LocalVariableCouldBeFinal: Local variable 'random' could be declared final
+src/lifegame/Map.java:17:	LocalVariableCouldBeFinal: Local variable 'random' could be declared final
+src/lifegame/Map.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:18:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:23:	CommentRequired: Public method and constructor comments are required
+src/lifegame/Map.java:23:	CommentRequired: Public method and constructor comments are required
+src/lifegame/Map.java:23:	LinguisticNaming: Linguistics Antipattern - The getter 'getAmount' should not return void linguistically
+src/lifegame/Map.java:23:	LinguisticNaming: Linguistics Antipattern - The getter 'getAmount' should not return void linguistically
+src/lifegame/Map.java:23:	MethodArgumentCouldBeFinal: Parameter 'cell' is not assigned and could be declared final
+src/lifegame/Map.java:23:	MethodArgumentCouldBeFinal: Parameter 'cell' is not assigned and could be declared final
+src/lifegame/Map.java:23:	ModifiedCyclomaticComplexity: The method 'getAmount' has a Modified Cyclomatic Complexity of 11.
+src/lifegame/Map.java:23:	ModifiedCyclomaticComplexity: The method 'getAmount' has a Modified Cyclomatic Complexity of 11.
+src/lifegame/Map.java:23:	NPathComplexity: The method 'getAmount(Cell)' has an NPath complexity of 1298
+src/lifegame/Map.java:23:	NPathComplexity: The method 'getAmount(Cell)' has an NPath complexity of 1298
+src/lifegame/Map.java:23:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifegame/Map.java:23:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifegame/Map.java:27:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:27:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:27:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:27:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:27:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:27:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:27:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:27:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:28:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:28:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:28:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:28:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:28:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:28:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:28:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:28:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:29:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:29:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:29:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:29:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:29:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:29:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:29:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:29:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:30:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:30:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:30:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:30:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:30:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:30:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:30:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:30:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:31:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:31:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:31:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:31:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:31:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:31:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:31:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:31:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:32:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:32:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:32:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:32:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:32:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:32:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:32:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:32:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:33:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:33:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:34:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:34:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:35:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:39:	CommentRequired: Public method and constructor comments are required
+src/lifegame/Map.java:39:	CommentRequired: Public method and constructor comments are required
+src/lifegame/Map.java:39:	MethodArgumentCouldBeFinal: Parameter 'cell' is not assigned and could be declared final
+src/lifegame/Map.java:39:	MethodArgumentCouldBeFinal: Parameter 'cell' is not assigned and could be declared final
+src/lifegame/Map.java:39:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifegame/Map.java:39:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifegame/Map.java:40:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'count' (lines '40'-'46').
+src/lifegame/Map.java:40:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'count' (lines '40'-'46').
+src/lifegame/Map.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:43:	LocalVariableCouldBeFinal: Local variable 'status' could be declared final
+src/lifegame/Map.java:43:	LocalVariableCouldBeFinal: Local variable 'status' could be declared final
+src/lifegame/Map.java:44:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:44:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:44:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:44:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:44:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:44:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:45:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:45:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:45:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:45:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:45:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:45:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:46:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:46:	ControlStatementBraces: This statement should have braces
+src/lifegame/Map.java:46:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'count' (lines '46'-'46').
+src/lifegame/Map.java:46:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'count' (lines '46'-'46').
+src/lifegame/Map.java:51:	CommentRequired: Public method and constructor comments are required
+src/lifegame/Map.java:51:	CommentRequired: Public method and constructor comments are required
+src/lifegame/Map.java:51:	MethodArgumentCouldBeFinal: Parameter 'cell' is not assigned and could be declared final
+src/lifegame/Map.java:51:	MethodArgumentCouldBeFinal: Parameter 'cell' is not assigned and could be declared final
+src/lifegame/Map.java:51:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifegame/Map.java:51:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/lifegame/Map.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:54:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/Map.java:54:	SystemPrintln: System.out.print is used
+src/lifegame/Map.java:54:	SystemPrintln: System.out.print is used
+src/lifegame/Map.java:56:	SystemPrintln: System.out.println is used
+src/lifegame/Map.java:56:	SystemPrintln: System.out.println is used
+src/lifegame/MapTest.java:9:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/lifegame/MapTest.java:9:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/lifegame/MapTest.java:9:	CommentRequired: Class comments are required
+src/lifegame/MapTest.java:9:	CommentRequired: Class comments are required
+src/lifegame/MapTest.java:10:	CommentRequired: Field comments are required
+src/lifegame/MapTest.java:10:	CommentRequired: Field comments are required
+src/lifegame/MapTest.java:13:	CommentRequired: Public method and constructor comments are required
+src/lifegame/MapTest.java:13:	CommentRequired: Public method and constructor comments are required
+src/lifegame/MapTest.java:13:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/lifegame/MapTest.java:13:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/lifegame/MapTest.java:14:	SystemPrintln: System.out.println is used
+src/lifegame/MapTest.java:14:	SystemPrintln: System.out.println is used
+src/lifegame/MapTest.java:18:	CommentRequired: Public method and constructor comments are required
+src/lifegame/MapTest.java:18:	CommentRequired: Public method and constructor comments are required
+src/lifegame/MapTest.java:18:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/lifegame/MapTest.java:18:	SignatureDeclareThrowsException: A method/constructor should not explicitly throw java.lang.Exception
+src/lifegame/MapTest.java:19:	SystemPrintln: System.out.println is used
+src/lifegame/MapTest.java:19:	SystemPrintln: System.out.println is used
+src/lifegame/MapTest.java:22:	CommentRequired: Public method and constructor comments are required
+src/lifegame/MapTest.java:22:	CommentRequired: Public method and constructor comments are required
+src/lifegame/MapTest.java:22:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/lifegame/MapTest.java:22:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/lifegame/MapTest.java:27:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifegame/MapTest.java:27:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifegame/MapTest.java:28:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifegame/MapTest.java:28:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/lifegame/MapTest.java:31:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:31:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:32:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:32:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:32:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:32:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:32:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:32:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:33:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:34:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:40:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:40:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:40:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:40:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:40:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:40:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:40:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:40:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:41:	ControlStatementBraces: This statement should have braces
+src/lifegame/MapTest.java:41:	ControlStatementBraces: This statement should have braces
+src/lifegame/MapTest.java:41:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/MapTest.java:41:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/MapTest.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:41:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:42:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:42:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:42:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:42:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:42:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:42:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:42:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:42:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:43:	ControlStatementBraces: This statement should have braces
+src/lifegame/MapTest.java:43:	ControlStatementBraces: This statement should have braces
+src/lifegame/MapTest.java:43:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/MapTest.java:43:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/MapTest.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:43:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:49:	CommentRequired: Public method and constructor comments are required
+src/lifegame/MapTest.java:49:	CommentRequired: Public method and constructor comments are required
+src/lifegame/MapTest.java:49:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/lifegame/MapTest.java:49:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/lifegame/MapTest.java:55:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:55:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:55:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:55:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:55:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:55:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:55:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:55:	UselessParentheses: Useless parentheses.
+src/lifegame/MapTest.java:56:	ControlStatementBraces: This statement should have braces
+src/lifegame/MapTest.java:56:	ControlStatementBraces: This statement should have braces
+src/lifegame/MapTest.java:56:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/MapTest.java:56:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/MapTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:56:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:58:	ControlStatementBraces: This statement should have braces
+src/lifegame/MapTest.java:58:	ControlStatementBraces: This statement should have braces
+src/lifegame/MapTest.java:58:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/MapTest.java:58:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/lifegame/MapTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/MapTest.java:58:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/lifegame/main.java:3:	CommentRequired: Class comments are required
+src/lifegame/main.java:3:	CommentRequired: Class comments are required
+src/lifegame/main.java:3:	ShortClassName: Avoid short class names like main
+src/lifegame/main.java:3:	ShortClassName: Avoid short class names like main
+src/lifegame/main.java:3:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lifegame/main.java:3:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/lifegame/main.java:4:	CommentRequired: Public method and constructor comments are required
+src/lifegame/main.java:4:	CommentRequired: Public method and constructor comments are required
+src/lifegame/main.java:4:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/lifegame/main.java:4:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/lifegame/main.java:5:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'ui' (lines '5'-'6').
+src/lifegame/main.java:5:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'ui' (lines '5'-'6').
+src/lifegame/main.java:5:	LocalVariableCouldBeFinal: Local variable 'ui' could be declared final
+src/lifegame/main.java:5:	LocalVariableCouldBeFinal: Local variable 'ui' could be declared final
+src/lifegame/main.java:5:	ShortVariable: Avoid variables with short names like ui
+src/lifegame/main.java:5:	ShortVariable: Avoid variables with short names like ui
